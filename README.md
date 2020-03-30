@@ -1,5 +1,5 @@
 # FirstJavaFXCalculator
-This is my first javaFX app and fist project on GitHub.
+This is my first javaFX app and first project on GitHub.
 It's a simple calculator which perform just one basic Math operation.
 
 Following changes expected in next update:
